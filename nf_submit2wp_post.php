@@ -1,10 +1,10 @@
 <?php
 /**
- * @package NF_Submission_Poster
+ * @package NF_Submit2WP_Post
  * @version 0.1
  */
 /*
-Plugin Name: NF_Submission_Poster
+Plugin Name: NF_Submit2WP_Post
 Description: Add templatized bulk conversion of Ninja Form submissions into posts
 Author: David Wright
 Version: 0.1
