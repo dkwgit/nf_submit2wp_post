@@ -5,6 +5,7 @@
  */
 /*
 Plugin Name: NF_Submit2WP_Post
+Plugin URI: https://github.com/dkwgit/nf_submit2wp_post
 Description: Add templatized bulk conversion of Ninja Form submissions into posts
 Author: David Wright
 Version: 0.1
